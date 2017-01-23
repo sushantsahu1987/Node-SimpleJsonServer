@@ -1,0 +1,27 @@
+{
+  "name": "app-jsonserver",
+  "version": "1.0.0",
+  "description": "A json server for testing get/put/post ...",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sushantsahu1987/Node-SimpleJsonServer.git"
+  },
+  "keywords": [
+    "express-js",
+    "node-js",
+    "json-server"
+  ],
+  "author": "sushant sahu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sushantsahu1987/Node-SimpleJsonServer/issues"
+  },
+  "homepage": "https://github.com/sushantsahu1987/Node-SimpleJsonServer#readme",
+  "dependencies": {
+    "json-server": "^0.9.4"
+  }
+}
