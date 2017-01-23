@@ -15,8 +15,8 @@ Home
 
 
 Commands
-$ npm install package.json
-$ npm install -g json-server
-$ json-server --watch db.json
+$ npm install package.json \n
+$ npm install -g json-server \n
+$ json-server --watch db.json \n
 
 
