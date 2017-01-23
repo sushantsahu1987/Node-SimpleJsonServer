@@ -14,3 +14,7 @@ Home
 - http://localhost:3000
 
 
+Commands
+$ npm install package.json
+$ npm install -g json-server
+$ json-server --watch db.json
